@@ -5,7 +5,7 @@ This is a web based application developed for health care specally for skin.
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://healthbenifits.azurewebsites.net
+*Project Link* - https://github.com/Dora-2002/HealthBenifits.git
 
 *youtube ink*  -https://youtu.be/i2noGiWIvfc
 
