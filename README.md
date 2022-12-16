@@ -8,6 +8,7 @@ This is a web based application developed for health care specally for skin.
 *Project Link* - https://healthbenifits.azurewebsites.net
 
 *youtube ink*  -https://youtu.be/i2noGiWIvfc
+project demo link - https://healthbenifits.azurewebsites.net
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
