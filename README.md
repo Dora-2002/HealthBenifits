@@ -43,7 +43,7 @@ This is a web based application developed for health care specally for skin.
 ![image](https://user-images.githubusercontent.com/118513179/204718527-3bd9344c-93c3-40fb-8962-dd9b51b8c6ee.png)
 
 ## Primary Azure Technology used
-1. Microsoft Azure Portal
+1. Microsoft Azure
 ![image](https://user-images.githubusercontent.com/118513179/204718624-010494cd-8096-4358-9d48-c332daeb84a1.png)
 
 2. App Service and Web Apps
