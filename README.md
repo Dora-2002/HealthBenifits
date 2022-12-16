@@ -45,7 +45,8 @@ project demo link - https://healthbenifits.azurewebsites.net
 ![image](https://user-images.githubusercontent.com/118513179/204718527-3bd9344c-93c3-40fb-8962-dd9b51b8c6ee.png)
 
 ## Microsoft Azure portal
-![image](https://user-images.githubusercontent.com/118513179/204718624-010494cd-8096-4358-9d48-c332daeb84a1.png)
+![image](https://user-images.githubusercontent.com/118513179/208098995-27cc185d-31be-4c0b-8ce6-c4941b858832.png)
+
 ## Primary Azure Technology used
 2. App Service and static web app
 ![image](https://user-images.githubusercontent.com/118513179/204718672-17eceb34-00df-4c3e-9add-bf108f493e15.png)
